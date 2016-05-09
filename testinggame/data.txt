@@ -1,0 +1,20 @@
+1000
+100
+2
+hweat*wheat field*wheat*  100 100 0 100 0 0 10 0.2 3 1
+pan und panzer*wheat*bread* 100 100 0 100 0 0 10 0.2 3 1
+7
+crude coal* 10 2000 50
+coal* 1 0 50
+raw wood* 1 2000 50
+wood* 2 0 50
+wheat field* 1 200000 50
+wheat* 2 0 10 50
+bread* 3 0 50
+1
+centrinis bankas* 0.05 10000 100 
+2
+john*brown* 10 20 50
+shizuo*heymajima* 10 80 50
+1
+bread* 1

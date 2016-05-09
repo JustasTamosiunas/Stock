@@ -1,0 +1,1720 @@
+//-------------------------------------------------//1000
+101
+2
+hweat*wheat*100 100 10 100 1.05 10 10 0.2
+pan und panzer*bread*100 80 10 100 1.05 31 10 0.2
+7
+centrinis bankas*9.9 2000
+coal*0.99 0
+raw wood*0.99 2000
+wood*1.782 0
+wheat field*1 199990
+wheat*1.98 0
+bread*3 10
+2
+john brown -0.5
+shizuo heymajima -0.5
+2
+pan und panzer brown 10
+pan und panzer heymajima 10
+0
+//-------------------------------------------------//1000
+102
+2
+hweat*wheat*100 100 9.8 100 1.049 19.8 10 0.2
+pan und panzer*bread*100 80 10.2 100 1.051 71.8 10 0.2
+7
+centrinis bankas*9.999 2000
+coal*0.9801 0
+raw wood*0.9801 2000
+wood*1.76418 0
+wheat field*1 199980
+wheat*1.9602 0
+bread*3 20
+2
+john brown -0.296
+shizuo heymajima -0.296
+2
+pan und panzer brown 10
+pan und panzer heymajima 10
+0
+//-------------------------------------------------//1000
+103
+2
+hweat*wheat*100 100 7.602 100 1.03801 27.402 10 0.2
+pan und panzer*bread*100 80 10.398 100 1.05199 113.392 10 0.2
+7
+centrinis bankas*9.89901 2000
+coal*0.970299 0
+raw wood*0.970299 2000
+wood*1.74654 0
+wheat field*1.2 199970
+wheat*1.9406 0
+bread*3 30
+2
+john brown -0.08804
+shizuo heymajima -0.08804
+2
+pan und panzer brown 10
+pan und panzer heymajima 10
+0
+//-------------------------------------------------//1000
+104
+2
+hweat*wheat*100 100 9.40598 100 1.04703 36.808 10 0.2
+pan und panzer*bread*100 78 8.59402 100 1.04297 149.854 10 0.2
+7
+centrinis bankas*9.80002 2000
+coal*0.960596 0
+raw wood*0.960596 2000
+wood*1.72907 0
+wheat field*1.2 199960
+wheat*2.11919 0
+bread*3 40
+2
+john brown -0.95913
+shizuo heymajima -0.95913
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+105
+2
+hweat*wheat*100 100 11.1919 100 1.05596 47.9999 10 0.2
+pan und panzer*bread*100 78 6.80808 100 1.03404 171.64 10 0.2
+7
+centrinis bankas*9.70202 2000
+coal*0.95099 0
+raw wood*0.95099 2000
+wood*1.71178 0
+wheat field*1.2 199950
+wheat*2.296 0
+bread*3 50
+2
+john brown -0.809352
+shizuo heymajima -0.809352
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+106
+2
+hweat*wheat*100 100 10.96 100 1.0548 58.9599 10 0.2
+pan und panzer*bread*100 78 7.04 100 1.0352 194.168 10 0.2
+7
+centrinis bankas*9.407 2000
+coal*0.94148 0
+raw wood*0.94148 2000
+wood*1.69466 0
+wheat field*1.2 199940
+wheat*2.27304 0
+bread*3 60
+2
+john brown -0.654472
+shizuo heymajima -0.654472
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+107
+2
+hweat*wheat*100 100 12.7304 100 1.06365 71.6903 10 0.2
+pan und panzer*bread*100 78 5.2696 100 1.02635 211.031 10 0.2
+7
+centrinis bankas*9.31293 2000
+coal*0.932065 0
+raw wood*0.932065 2000
+wood*1.67772 0
+wheat field*1.2 199930
+wheat*2.44831 0
+bread*3 70
+2
+john brown -0.538541
+shizuo heymajima -0.538541
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+108
+2
+hweat*wheat*100 100 12.4831 100 1.06242 84.1734 10 0.2
+pan und panzer*bread*100 78 5.5169 100 1.02758 228.685 10 0.2
+7
+centrinis bankas*9.2198 2000
+coal*0.922745 0
+raw wood*0.922745 2000
+wood*1.66094 0
+wheat field*1.2 199920
+wheat*2.42383 0
+bread*3 80
+2
+john brown -0.417169
+shizuo heymajima -0.417169
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+109
+2
+hweat*wheat*100 100 12.2383 100 1.06119 96.4117 10 0.2
+pan und panzer*bread*100 78 5.76173 100 1.02881 247.122 10 0.2
+7
+centrinis bankas*9.1276 2000
+coal*0.913517 0
+raw wood*0.913517 2000
+wood*1.64433 0
+wheat field*1.2 199910
+wheat*2.39959 0
+bread*3 90
+2
+john brown -0.290411
+shizuo heymajima -0.290411
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+110
+2
+hweat*wheat*100 100 11.9959 110 1.05998 98.4075 11 0.2
+pan und panzer*bread*100 78 6.00412 100 1.03002 266.335 10 0.2
+7
+centrinis bankas*9.03633 2000
+coal*1.10238 0
+raw wood*0.904382 2000
+wood*1.62789 0
+wheat field*1.2 199900
+wheat*2.39959 0
+bread*3 100
+2
+john brown -0.15832
+shizuo heymajima -0.15832
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+111
+2
+hweat*wheat*100 100 13.9959 130 1.16998 92.4034 13 0.2
+pan und panzer*bread*100 78 4.00412 100 1.02002 279.149 10 0.2
+7
+centrinis bankas*8.94596 2000
+coal*1.09136 0
+raw wood*0.895338 2000
+wood*1.61161 0
+wheat field*1.2 199890
+wheat*2.59959 0
+bread*3 110
+2
+john brown -0.0702296
+shizuo heymajima -0.0702296
+2
+pan und panzer brown 11
+pan und panzer heymajima 11
+0
+//-------------------------------------------------//1000
+112
+2
+hweat*wheat*100 100 13.9959 140 1.36998 96.3993 14 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 294.002 10 0.2
+7
+centrinis bankas*8.8565 2000
+coal*0.882445 0
+raw wood*0.886385 2000
+wood*1.59549 0
+wheat field*1.2 199880
+wheat*2.59959 0
+bread*3 120
+2
+john brown -1.00216
+shizuo heymajima -1.00216
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+113
+2
+hweat*wheat*100 100 13.9959 160 1.46998 90.3952 16 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 306.815 10 0.2
+7
+centrinis bankas*8.76794 2000
+coal*0.87362 0
+raw wood*0.877521 2000
+wood*1.57954 0
+wheat field*1.2 199870
+wheat*2.59959 0
+bread*3 130
+2
+john brown -0.906061
+shizuo heymajima -0.906061
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+114
+2
+hweat*wheat*100 100 13.9959 170 1.66998 94.3911 17 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 319.628 10 0.2
+7
+centrinis bankas*8.68026 2000
+coal*0.864884 0
+raw wood*0.868746 2000
+wood*1.56374 0
+wheat field*1.2 199860
+wheat*2.59959 0
+bread*3 140
+2
+john brown -0.809962
+shizuo heymajima -0.809962
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+115
+2
+hweat*wheat*100 100 13.9959 180 1.76998 98.387 18 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 332.441 10 0.2
+7
+centrinis bankas*8.39546 2000
+coal*0.856235 0
+raw wood*0.860058 2000
+wood*1.54811 0
+wheat field*1.2 199850
+wheat*2.59959 0
+bread*3 150
+2
+john brown -0.713863
+shizuo heymajima -0.713863
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+116
+2
+hweat*wheat*100 100 13.9959 200 1.86998 92.3828 20 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 345.254 10 0.2
+7
+centrinis bankas*8.3115 2000
+coal*0.847673 0
+raw wood*0.851458 2000
+wood*1.33462 0
+wheat field*1.2 199840
+wheat*2.59959 0
+bread*3 160
+2
+john brown -0.617764
+shizuo heymajima -0.617764
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+117
+2
+hweat*wheat*100 100 15.9959 210 2.07998 98.3787 21 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 351.668 10 0.2
+7
+centrinis bankas*8.22839 2000
+coal*0.839196 0
+raw wood*0.842943 2000
+wood*1.32128 0
+wheat field*1.2 199830
+wheat*2.79959 0
+bread*3 170
+2
+john brown -0.569666
+shizuo heymajima -0.569666
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+118
+2
+hweat*wheat*100 100 15.9959 230 2.17998 94.3746 23 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 358.081 10 0.2
+7
+centrinis bankas*8.1461 2000
+coal*0.830804 0
+raw wood*0.834514 2000
+wood*1.50606 0
+wheat field*1.2 199820
+wheat*2.79959 0
+bread*3 180
+2
+john brown -0.521567
+shizuo heymajima -0.521567
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+119
+2
+hweat*wheat*100 100 15.9959 250 2.37998 90.3705 25 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 364.494 10 0.2
+7
+centrinis bankas*8.06464 2000
+coal*0.624496 0
+raw wood*0.826169 2000
+wood*1.491 0
+wheat field*1.2 199810
+wheat*2.79959 0
+bread*3 190
+2
+john brown -0.473468
+shizuo heymajima -0.473468
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+120
+2
+hweat*wheat*100 100 15.9959 260 2.57998 96.3664 26 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 370.907 10 0.2
+7
+centrinis bankas*7.984 2000
+coal*0.618251 0
+raw wood*0.817907 2000
+wood*1.67409 0
+wheat field*1.2 199800
+wheat*2.79959 0
+bread*3 200
+2
+john brown -0.425369
+shizuo heymajima -0.425369
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+121
+2
+hweat*wheat*100 100 15.9959 280 2.67998 92.3623 28 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 377.32 10 0.2
+7
+centrinis bankas*7.90416 2000
+coal*0.414069 0
+raw wood*0.809728 2000
+wood*1.65735 0
+wheat field*1.2 199790
+wheat*2.79959 0
+bread*3 210
+2
+john brown -0.37727
+shizuo heymajima -0.37727
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+122
+2
+hweat*wheat*100 100 15.9959 290 2.87998 98.3581 29 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 383.734 10 0.2
+7
+centrinis bankas*8.02311 2000
+coal*0.409928 0
+raw wood*0.801631 2000
+wood*1.64078 0
+wheat field*1.2 199780
+wheat*2.79959 0
+bread*3 220
+2
+john brown -0.329172
+shizuo heymajima -0.329172
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+123
+2
+hweat*wheat*100 100 15.9959 310 2.97998 94.354 31 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 390.147 10 0.2
+7
+centrinis bankas*7.94288 2000
+coal*0.405829 0
+raw wood*0.793614 2000
+wood*1.62437 0
+wheat field*1.2 199770
+wheat*2.79959 0
+bread*3 230
+2
+john brown -0.281073
+shizuo heymajima -0.281073
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+124
+2
+hweat*wheat*100 100 15.9959 330 3.17998 90.3499 33 0.2
+pan und panzer*bread*100 76 4.00412 100 1.02002 402.96 10 0.2
+7
+centrinis bankas*7.86345 2000
+coal*0.40177 0
+raw wood*0.785678 2000
+wood*1.60813 0
+wheat field*1.2 199760
+wheat*2.79959 0
+bread*3.2 240
+2
+john brown -0.184974
+shizuo heymajima -0.184974
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+125
+2
+hweat*wheat*100 100 17.9959 340 3.38998 98.3458 34 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 409.373 10 0.2
+7
+centrinis bankas*7.78482 2000
+coal*0.397753 0
+raw wood*0.777821 2000
+wood*1.59205 0
+wheat field*1.2 199750
+wheat*2.99959 0
+bread*3.2 250
+2
+john brown -0.136875
+shizuo heymajima -0.136875
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+126
+2
+hweat*wheat*100 100 19.9959 360 3.49998 98.3417 36 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 415.786 10 0.2
+7
+centrinis bankas*7.70697 2000
+coal*0.393775 0
+raw wood*0.770043 2000
+wood*1.57613 0
+wheat field*1 199740
+wheat*2.99959 0
+bread*3.2 260
+2
+john brown -0.0887765
+shizuo heymajima -0.0887765
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+127
+2
+hweat*wheat*100 100 19.9959 380 3.69998 98.3376 38 0.2
+pan und panzer*bread*100 76 2.00412 100 1.01002 422.199 10 0.2
+7
+centrinis bankas*7.6299 2000
+coal*0.389837 0
+raw wood*0.960343 2000
+wood*1.56037 0
+wheat field*1 199730
+wheat*2.99959 0
+bread*3.2 270
+2
+john brown -0.0406777
+shizuo heymajima -0.0406777
+2
+pan und panzer brown 12
+pan und panzer heymajima 12
+0
+//-------------------------------------------------//1000
+128
+2
+hweat*wheat*100 100 19.9959 400 3.89998 98.3334 40 0.2
+pan und panzer*bread*100 74 2.00412 100 1.01002 430.633 10 0.2
+7
+centrinis bankas*7.5536 2000
+coal*0.187939 0
+raw wood*0.950739 2000
+wood*1.54476 0
+wheat field*1 199720
+wheat*2.99959 0
+bread*3.2 280
+2
+john brown -1.0026
+shizuo heymajima -1.0026
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+129
+2
+hweat*wheat*100 100 19.9959 420 4.09998 98.3293 42 0.2
+pan und panzer*bread*100 74 2.00412 100 1.01002 435.442 10 0.2
+7
+centrinis bankas*7.47807 2000
+coal*0.18606 0
+raw wood*0.941232 2000
+wood*1.52931 0
+wheat field*1 199710
+wheat*2.99959 0
+bread*3.2 290
+2
+john brown -0.950492
+shizuo heymajima -0.950492
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+130
+2
+hweat*wheat*100 100 19.9959 440 4.29998 98.3252 44 0.2
+pan und panzer*bread*100 74 4.00412 100 1.02002 445.052 10 0.2
+7
+centrinis bankas*7.40329 2000
+coal*0.184199 0
+raw wood*0.93182 2000
+wood*1.51402 0
+wheat field*1 199700
+wheat*2.99959 0
+bread*3.4 300
+2
+john brown -0.846385
+shizuo heymajima -0.846385
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+131
+2
+hweat*wheat*100 100 19.9959 460 4.49998 98.3211 46 0.2
+pan und panzer*bread*100 74 4.00412 100 1.02002 454.662 10 0.2
+7
+centrinis bankas*7.13125 2000
+coal*0.182357 0
+raw wood*0.922501 2000
+wood*1.49888 0
+wheat field*1 199690
+wheat*2.99959 0
+bread*3.4 310
+2
+john brown -0.742278
+shizuo heymajima -0.742278
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+132
+2
+hweat*wheat*100 100 19.9959 480 4.69998 98.317 48 0.2
+pan und panzer*bread*100 74 4.00412 100 1.02002 464.272 10 0.2
+7
+centrinis bankas*7.25794 2000
+coal*0.180533 0
+raw wood*0.913276 2000
+wood*1.48389 0
+wheat field*1 199680
+wheat*2.99959 0
+bread*3.4 320
+2
+john brown -0.638171
+shizuo heymajima -0.638171
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+133
+2
+hweat*wheat*100 100 19.9959 500 4.89998 98.3129 50 0.2
+pan und panzer*bread*100 74 4.00412 100 1.02002 473.882 10 0.2
+7
+centrinis bankas*7.18536 2000
+coal*0.178728 0
+raw wood*0.904144 2000
+wood*1.46905 0
+wheat field*1 199670
+wheat*2.99959 0
+bread*3.4 330
+2
+john brown -0.534064
+shizuo heymajima -0.534064
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+134
+2
+hweat*wheat*100 100 19.9959 520 5.09998 98.3087 52 0.2
+pan und panzer*bread*100 74 6.00412 100 1.03002 488.292 10 0.2
+7
+centrinis bankas*7.11351 2000
+coal*0.176941 0
+raw wood*0.895102 2000
+wood*1.45436 0
+wheat field*1 199660
+wheat*2.99959 0
+bread*3.6 340
+2
+john brown -0.377957
+shizuo heymajima -0.377957
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+135
+2
+hweat*wheat*100 100 17.9959 540 5.28998 96.3046 54 0.2
+pan und panzer*bread*100 74 8.00412 150 1.04002 457.502 11 0.2
+7
+centrinis bankas*7.04237 2000
+coal*0.175171 0
+raw wood*0.886151 2000
+wood*1.43982 0
+wheat field*1 199650
+wheat*2.79959 0
+bread*3.6 350
+2
+john brown -0.16985
+shizuo heymajima -0.16985
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+136
+2
+hweat*wheat*100 100 19.7955 560 5.49898 96.1001 56 0.2
+pan und panzer*bread*100 72 8.80453 110 1.54402 481.721 11 0.2
+7
+centrinis bankas*6.97195 2000
+coal*0.37142 0
+raw wood*0.87729 2000
+wood*1.42542 0
+wheat field*1 199639
+wheat*2.79959 0
+bread*3.6 361
+2
+john brown -1.48496
+shizuo heymajima -1.48496
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+137
+2
+hweat*wheat*100 100 19.7955 580 5.69898 95.8956 58 0.2
+pan und panzer*bread*100 74 8.80453 160 1.14402 450.563 12 0.2
+7
+centrinis bankas*6.90223 2000
+coal*0.367706 0
+raw wood*0.868517 2000
+wood*1.41117 0
+wheat field*1 199628
+wheat*2.79959 0
+bread*3.6 372
+2
+john brown -0.0944057
+shizuo heymajima -0.0944057
+2
+pan und panzer brown 13
+pan und panzer heymajima 13
+0
+//-------------------------------------------------//1000
+138
+2
+hweat*wheat*100 100 19.1951 600 5.89598 95.0906 60 0.2
+pan und panzer*bread*100 72 9.60494 120 1.64802 476.911 12 0.2
+7
+centrinis bankas*6.83321 2000
+coal*0.364028 0
+raw wood*0.859832 2000
+wood*1.39705 0
+wheat field*1.2 199616
+wheat*2.79959 0
+bread*3.6 384
+2
+john brown -1.4927
+shizuo heymajima -1.4927
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+139
+2
+hweat*wheat*100 100 19.1951 620 6.09598 94.2857 62 0.2
+pan und panzer*bread*100 72 9.60494 120 1.24802 499.963 12 0.2
+7
+centrinis bankas*6.76487 2000
+coal*0.360388 0
+raw wood*1.04923 2000
+wood*1.38308 0
+wheat field*1.2 199604
+wheat*2.79959 0
+bread*3.6 396
+2
+john brown -1.22376
+shizuo heymajima -1.22376
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+140
+2
+hweat*wheat*100 100 19.1951 640 6.29598 93.4808 64 0.2
+pan und panzer*bread*100 72 9.60494 170 1.24802 473.015 13 0.2
+7
+centrinis bankas*6.69723 2000
+coal*0.356784 0
+raw wood*0.840741 2000
+wood*1.36925 0
+wheat field*1.2 199592
+wheat*2.79959 0
+bread*3.6 408
+2
+john brown -0.954825
+shizuo heymajima -0.954825
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+141
+2
+hweat*wheat*100 100 20.7946 660 6.50397 94.2754 66 0.2
+pan und panzer*bread*100 72 10.4054 130 1.75203 497.988 13 0.2
+7
+centrinis bankas*6.63025 2000
+coal*0.353216 0
+raw wood*0.832334 2000
+wood*1.55356 0
+wheat field*1.2 199579
+wheat*2.79959 0
+bread*3.6 421
+2
+john brown -0.663475
+shizuo heymajima -0.663475
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+142
+2
+hweat*wheat*100 100 23.3946 680 6.71697 97.6701 68 0.2
+pan und panzer*bread*100 72 10.4054 180 1.35203 472.961 14 0.2
+7
+centrinis bankas*6.56395 2000
+coal*0.349684 0
+raw wood*0.82401 2000
+wood*1.53803 0
+wheat field*1 199566
+wheat*2.79959 0
+bread*3.6 434
+2
+john brown -0.372126
+shizuo heymajima -0.372126
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+143
+2
+hweat*wheat*100 100 25.1942 710 6.92597 92.8643 71 0.2
+pan und panzer*bread*100 72 11.2058 140 1.85603 499.855 14 0.2
+7
+centrinis bankas*6.49831 2000
+coal*0.346187 0
+raw wood*1.01377 2000
+wood*1.52264 0
+wheat field*1 199552
+wheat*2.79959 0
+bread*3.6 448
+2
+john brown -0.0583642
+shizuo heymajima -0.0583642
+2
+pan und panzer brown 14
+pan und panzer heymajima 14
+0
+//-------------------------------------------------//1000
+144
+2
+hweat*wheat*100 100 27.9942 740 7.23997 90.8585 74 0.2
+pan und panzer*bread*100 70 11.2058 190 1.45603 479.661 15 0.2
+7
+centrinis bankas*6.43333 2000
+coal*0.342726 0
+raw wood*1.00363 2000
+wood*1.50742 0
+wheat field*0.8 199538
+wheat*2.79959 0
+bread*3.6 462
+2
+john brown -1.20063
+shizuo heymajima -1.20063
+2
+pan und panzer brown 15
+pan und panzer heymajima 15
+0
+//-------------------------------------------------//1000
+145
+2
+hweat*wheat*100 100 26.9938 760 7.53497 97.8524 76 0.2
+pan und panzer*bread*100 70 12.0062 200 1.96003 458.475 16 0.2
+7
+centrinis bankas*6.369 2000
+coal*0.339298 0
+raw wood*0.993596 2000
+wood*1.49234 0
+wheat field*1 199523
+wheat*2.79959 0
+bread*3.6 477
+2
+john brown -0.840446
+shizuo heymajima -0.840446
+2
+pan und panzer brown 15
+pan und panzer heymajima 15
+0
+//-------------------------------------------------//1000
+146
+2
+hweat*wheat*100 100 28.7934 790 7.74397 96.6458 79 0.2
+pan und panzer*bread*100 70 12.8066 160 2.06403 489.211 16 0.2
+7
+centrinis bankas*6.30531 2000
+coal*0.533905 0
+raw wood*0.98366 2000
+wood*1.47742 0
+wheat field*1 199507
+wheat*2.79959 0
+bread*3.6 493
+2
+john brown -0.456249
+shizuo heymajima -0.456249
+2
+pan und panzer brown 15
+pan und panzer heymajima 15
+0
+//-------------------------------------------------//1000
+147
+2
+hweat*wheat*100 100 28.7934 820 8.04397 95.4392 82 0.2
+pan und panzer*bread*100 70 12.8066 210 1.66403 469.947 17 0.2
+7
+centrinis bankas*6.24225 2000
+coal*0.528566 0
+raw wood*0.973823 2000
+wood*1.26465 0
+wheat field*1 199491
+wheat*2.79959 0
+bread*3.6 509
+2
+john brown -0.0720512
+shizuo heymajima -0.0720512
+2
+pan und panzer brown 15
+pan und panzer heymajima 15
+0
+//-------------------------------------------------//1000
+148
+2
+hweat*wheat*100 100 30.593 850 8.35297 96.0322 85 0.2
+pan und panzer*bread*100 68 17.007 220 2.18503 465.134 18 0.2
+7
+centrinis bankas*6.17983 2000
+coal*0.523281 0
+raw wood*0.964085 2000
+wood*1.252 0
+wheat field*1 199474
+wheat*2.79959 0
+bread*3.8 526
+2
+john brown -1.74688
+shizuo heymajima -1.74688
+2
+pan und panzer brown 16
+pan und panzer heymajima 16
+0
+//-------------------------------------------------//1000
+149
+2
+hweat*wheat*100 100 32.3926 880 8.66196 98.4248 88 0.2
+pan und panzer*bread*100 68 18.0074 230 2.29004 458.352 19 0.2
+7
+centrinis bankas*6.11803 2000
+coal*0.518048 0
+raw wood*0.954444 2000
+wood*1.23948 0
+wheat field*1 199456
+wheat*2.79959 0
+bread*3.8 544
+2
+john brown -1.17064
+shizuo heymajima -1.17064
+2
+pan und panzer brown 16
+pan und panzer heymajima 16
+0
+//-------------------------------------------------//1000
+150
+2
+hweat*wheat*100 100 34.1922 920 8.97096 92.6169 92 0.2
+pan und panzer*bread*100 68 19.0078 240 2.39504 453.97 20 0.2
+7
+centrinis bankas*6.05685 2000
+coal*0.314867 0
+raw wood*0.9449 2000
+wood*1.22709 0
+wheat field*1 199437
+wheat*2.79959 0
+bread*3.8 563
+2
+john brown -0.562389
+shizuo heymajima -0.562389
+2
+pan und panzer brown 16
+pan und panzer heymajima 16
+0
+//-------------------------------------------------//1000
+151
+2
+hweat*wheat*100 100 35.9918 950 9.37996 98.6087 95 0.2
+pan und panzer*bread*100 66 20.0082 250 2.50004 456.99 21 0.2
+7
+centrinis bankas*5.79828 2000
+coal*0.311719 0
+raw wood*0.935451 2000
+wood*1.21481 0
+wheat field*1 199417
+wheat*2.79959 0
+bread*3.8 583
+2
+john brown -2.42217
+shizuo heymajima -2.42217
+2
+pan und panzer brown 17
+pan und panzer heymajima 17
+0
+//-------------------------------------------------//1000
+152
+2
+hweat*wheat*100 100 37.7914 990 9.68896 96.4001 99 0.2
+pan und panzer*bread*100 66 21.0086 210 2.60504 490.604 21 0.2
+7
+centrinis bankas*5.5423 2000
+coal*0.308601 0
+raw wood*0.926096 2000
+wood*1.20267 0
+wheat field*1 199396
+wheat*2.79959 0
+bread*3.8 604
+2
+john brown -1.70787
+shizuo heymajima -1.70787
+2
+pan und panzer brown 17
+pan und panzer heymajima 17
+0
+//-------------------------------------------------//1000
+153
+2
+hweat*wheat*100 100 41.9914 1030 10.11 98.3914 103 0.2
+pan und panzer*bread*100 66 21.0086 260 2.20504 474.218 22 0.2
+7
+centrinis bankas*5.48688 2000
+coal*0.305515 0
+raw wood*0.916835 2000
+wood*1.19064 0
+wheat field*0.8 199375
+wheat*2.79959 0
+bread*3.8 625
+2
+john brown -0.993579
+shizuo heymajima -0.993579
+2
+pan und panzer brown 17
+pan und panzer heymajima 17
+0
+//-------------------------------------------------//1000
+154
+2
+hweat*wheat*100 100 48.3909 1080 10.542 96.7824 108 0.2
+pan und panzer*bread*100 66 22.0091 270 2.71005 459.432 23 0.2
+7
+centrinis bankas*5.43201 2000
+coal*0.30246 0
+raw wood*0.907667 2000
+wood*1.17873 0
+wheat field*0.6 199353
+wheat*2.79959 0
+bread*3.8 647
+2
+john brown -0.245271
+shizuo heymajima -0.245271
+2
+pan und panzer brown 17
+pan und panzer heymajima 17
+0
+//-------------------------------------------------//1000
+155
+2
+hweat*wheat*100 100 50.5905 1130 11.053 97.3729 113 0.2
+pan und panzer*bread*100 64 23.0095 230 2.81505 501.878 23 0.2
+7
+centrinis bankas*5.37769 2000
+coal*0.497436 0
+raw wood*0.89859 2000
+wood*1.16695 0
+wheat field*0.6 199330
+wheat*2.79959 0
+bread*3.8 670
+2
+john brown -2.278
+shizuo heymajima -2.278
+2
+pan und panzer brown 18
+pan und panzer heymajima 18
+0
+//-------------------------------------------------//1000
+156
+2
+hweat*wheat*100 100 50.5905 1180 11.553 97.9634 118 0.2
+pan und panzer*bread*100 64 23.0095 280 2.41505 488.693 24 0.2
+7
+centrinis bankas*5.32391 2000
+coal*0.492461 0
+raw wood*0.889605 2000
+wood*1.15528 0
+wheat field*0.6 199307
+wheat*2.79959 0
+bread*3.8 693
+2
+john brown -1.44966
+shizuo heymajima -1.44966
+2
+pan und panzer brown 18
+pan und panzer heymajima 18
+0
+//-------------------------------------------------//1000
+157
+2
+hweat*wheat*100 100 47.9901 1230 12.04 95.9536 123 0.2
+pan und panzer*bread*100 64 24.0099 290 2.92005 477.109 25 0.2
+7
+centrinis bankas*5.27067 2000
+coal*0.487537 0
+raw wood*0.880709 2000
+wood*1.14372 0
+wheat field*0.8 199283
+wheat*2.79959 0
+bread*3.8 717
+2
+john brown -0.5853
+shizuo heymajima -0.5853
+2
+pan und panzer brown 18
+pan und panzer heymajima 18
+0
+//-------------------------------------------------//1000
+158
+2
+hweat*wheat*100 100 44.9897 1280 12.5249 90.9433 128 0.2
+pan und panzer*bread*100 62 30.0103 300 3.05005 481.225 26 0.2
+7
+centrinis bankas*5.21797 2000
+coal*0.482661 0
+raw wood*0.871901 2000
+wood*1.13229 0
+wheat field*0.8 199258
+wheat*2.59959 0
+bread*3.8 742
+2
+john brown -2.55498
+shizuo heymajima -2.55498
+2
+pan und panzer brown 19
+pan und panzer heymajima 19
+0
+//-------------------------------------------------//1000
+159
+2
+hweat*wheat*100 100 46.7893 1320 13.0339 97.7326 132 0.2
+pan und panzer*bread*100 62 31.2107 310 3.15605 481.162 27 0.2
+7
+centrinis bankas*5.16579 2000
+coal*0.477835 0
+raw wood*0.863182 2000
+wood*1.31896 0
+wheat field*0.8 199232
+wheat*2.59959 0
+bread*3.8 768
+2
+john brown -1.36897
+shizuo heymajima -1.36897
+2
+pan und panzer brown 19
+pan und panzer heymajima 19
+0
+//-------------------------------------------------//1000
+160
+2
+hweat*wheat*100 100 48.5889 1370 13.4429 96.3214 137 0.2
+pan und panzer*bread*100 62 32.4111 320 3.26206 483.02 28 0.2
+7
+centrinis bankas*5.31213 2000
+coal*0.473056 0
+raw wood*0.854551 2000
+wood*1.30577 0
+wheat field*0.8 199205
+wheat*2.59959 0
+bread*3.8 795
+2
+john brown -0.137352
+shizuo heymajima -0.137352
+2
+pan und panzer brown 19
+pan und panzer heymajima 19
+0
+//-------------------------------------------------//1000
+161
+2
+hweat*wheat*100 100 50.3885 1420 13.9519 96.7099 142 0.2
+pan und panzer*bread*100 60 39.2115 330 3.39606 502.551 29 0.2
+7
+centrinis bankas*5.25901 2000
+coal*0.468326 0
+raw wood*0.846005 2000
+wood*1.29272 0
+wheat field*0.8 199177
+wheat*2.59959 0
+bread*4 823
+2
+john brown -2.04337
+shizuo heymajima -2.04337
+2
+pan und panzer brown 20
+pan und panzer heymajima 20
+0
+//-------------------------------------------------//1000
+162
+2
+hweat*wheat*100 100 46.3881 1470 14.4319 93.098 147 0.2
+pan und panzer*bread*100 60 46.4119 390 3.53206 476.81 31 0.2
+7
+centrinis bankas*5.20642 2000
+coal*0.463643 0
+raw wood*0.837545 2000
+wood*1.27979 0
+wheat field*0.8 199148
+wheat*2.39959 0
+bread*4 852
+2
+john brown -0.186894
+shizuo heymajima -0.186894
+2
+pan und panzer brown 20
+pan und panzer heymajima 20
+0
+//-------------------------------------------------//1000
+163
+2
+hweat*wheat*100 100 49.5872 1520 14.9479 92.6852 152 0.2
+pan und panzer*bread*100 58 49.6128 410 4.14806 464.486 33 0.2
+7
+centrinis bankas*5.15435 2000
+coal*0.459006 0
+raw wood*0.82917 2000
+wood*1.46499 0
+wheat field*0.8 199117
+wheat*2.39959 0
+bread*4 883
+2
+john brown -2.35045
+shizuo heymajima -2.35045
+2
+pan und panzer brown 21
+pan und panzer heymajima 21
+0
+//-------------------------------------------------//1000
+164
+2
+hweat*wheat*100 100 52.7864 1570 15.4639 95.4716 157 0.2
+pan und panzer*bread*100 58 46.2136 380 4.33107 488.428 34 0.2
+7
+centrinis bankas*5.10281 2000
+coal*0.454416 0
+raw wood*0.820878 2000
+wood*1.45034 0
+wheat field*0.8 199084
+wheat*2.39959 0
+bread*3.8 916
+2
+john brown -0.409476
+shizuo heymajima -0.409476
+2
+pan und panzer brown 21
+pan und panzer heymajima 21
+0
+//-------------------------------------------------//1000
+165
+2
+hweat*wheat*100 100 54.386 1620 15.9719 99.8576 162 0.2
+pan und panzer*bread*100 56 47.614 440 4.03807 472.687 36 0.2
+7
+centrinis bankas*4.85378 2000
+coal*0.449872 0
+raw wood*0.812669 2000
+wood*1.43584 0
+wheat field*0.8 199050
+wheat*2.39959 0
+bread*3.8 950
+2
+john brown -2.44776
+shizuo heymajima -2.44776
+2
+pan und panzer brown 22
+pan und panzer heymajima 22
+0
+//-------------------------------------------------//1000
+166
+2
+hweat*wheat*100 100 57.5852 1680 16.4879 97.4428 168 0.2
+pan und panzer*bread*100 54 57.6148 460 4.68807 474.246 38 0.2
+7
+centrinis bankas*4.80524 2000
+coal*0.445373 0
+raw wood*0.804542 2000
+wood*1.42148 0
+wheat field*0.8 199014
+wheat*2.39959 0
+bread*4 986
+2
+john brown -4.60078
+shizuo heymajima -4.60078
+2
+pan und panzer brown 23
+pan und panzer heymajima 23
+0
+//-------------------------------------------------//1000
+167
+2
+hweat*wheat*100 100 60.7844 1740 17.1039 98.2272 174 0.2
+pan und panzer*bread*100 54 60.8156 480 4.90408 471.551 40 0.2
+7
+centrinis bankas*4.75719 2000
+coal*0.638919 0
+raw wood*0.796497 2000
+wood*1.40726 0
+wheat field*0.8 198976
+wheat*2.39959 0
+bread*4 1024
+2
+john brown -1.80326
+shizuo heymajima -1.80326
+2
+pan und panzer brown 23
+pan und panzer heymajima 23
+0
+//-------------------------------------------------//1000
+168
+2
+hweat*wheat*100 100 63.9835 1810 17.7199 92.2107 181 0.2
+pan und panzer*bread*100 52 64.0165 500 5.12008 484.218 42 0.2
+7
+centrinis bankas*4.70962 2000
+coal*0.63253 0
+raw wood*0.788532 2000
+wood*1.39319 0
+wheat field*0.8 198936
+wheat*2.39959 0
+bread*4 1064
+2
+john brown -3.97859
+shizuo heymajima -3.97859
+2
+pan und panzer brown 24
+pan und panzer heymajima 24
+0
+//-------------------------------------------------//1000
+169
+2
+hweat*wheat*100 100 67.1827 1870 18.4359 99.3934 187 0.2
+pan und panzer*bread*100 52 67.2173 520 5.33609 491.766 44 0.2
+7
+centrinis bankas*4.66252 2000
+coal*0.626205 0
+raw wood*0.780647 2000
+wood*1.37926 0
+wheat field*0.8 198894
+wheat*2.39959 0
+bread*4 1106
+2
+john brown -0.752156
+shizuo heymajima -0.752156
+2
+pan und panzer brown 24
+pan und panzer heymajima 24
+0
+//-------------------------------------------------//1000
+170
+2
+hweat*wheat*100 100 70.3819 1940 19.0519 99.7753 194 0.2
+pan und panzer*bread*100 50 79.2181 590 5.59609 479.707 47 0.2
+7
+centrinis bankas*4.6159 2000
+coal*0.619943 0
+raw wood*0.77284 2000
+wood*1.36547 0
+wheat field*0.8 198850
+wheat*2.39959 0
+bread*4.2 1150
+2
+john brown -2.54578
+shizuo heymajima -2.54578
+2
+pan und panzer brown 25
+pan und panzer heymajima 25
+0
+//-------------------------------------------------//1000
+171
+2
+hweat*wheat*100 100 75.1807 2020 19.7759 94.956 202 0.2
+pan und panzer*bread*100 48 84.6193 620 6.3231 477.744 50 0.2
+7
+centrinis bankas*4.56974 2000
+coal*0.613744 0
+raw wood*0.765112 2000
+wood*1.35181 0
+wheat field*0.8 198803
+wheat*2.39959 0
+bread*4.2 1197
+2
+john brown -4.63791
+shizuo heymajima -4.63791
+2
+pan und panzer brown 26
+pan und panzer heymajima 26
+0
+//-------------------------------------------------//1000
+172
+2
+hweat*wheat*100 100 79.9794 2100 20.5999 94.9354 210 0.2
+pan und panzer*bread*100 46 90.0206 550 6.6501 513.061 51 0.2
+7
+centrinis bankas*4.52404 2000
+coal*0.607606 0
+raw wood*0.757461 2000
+wood*1.33829 0
+wheat field*0.8 198753
+wheat*2.39959 0
+bread*4.2 1247
+2
+john brown -6.60694
+shizuo heymajima -6.60694
+2
+pan und panzer brown 27
+pan und panzer heymajima 27
+0
+//-------------------------------------------------//1000
+173
+2
+hweat*wheat*100 100 71.379 2170 21.3569 96.3144 217 0.2
+pan und panzer*bread*100 46 102.021 610 6.0101 494.677 53 0.2
+7
+centrinis bankas*4.4788 2000
+coal*0.60153 0
+raw wood*0.749886 2000
+wood*1.32491 0
+wheat field*0.8 198702
+wheat*2.19959 0
+bread*4.2 1298
+2
+john brown -1.09781
+shizuo heymajima -1.09781
+2
+pan und panzer brown 27
+pan und panzer heymajima 27
+0
+//-------------------------------------------------//1000
+174
+2
+hweat*wheat*100 100 74.1782 2250 22.0709 90.4926 225 0.2
+pan und panzer*bread*100 44 106.022 630 6.63011 492.755 55 0.2
+7
+centrinis bankas*4.43401 2000
+coal*0.595515 0
+raw wood*0.940387 2000
+wood*1.31166 0
+wheat field*0.8 198649
+wheat*2.19959 0
+bread*4.2 1351
+2
+john brown -2.00274
+shizuo heymajima -2.00274
+2
+pan und panzer brown 28
+pan und panzer heymajima 28
+0
+//-------------------------------------------------//1000
+175
+2
+hweat*wheat*100 100 76.9774 2320 22.8849 97.4699 232 0.2
+pan und panzer*bread*100 42 99.0226 650 6.79511 485.563 57 0.2
+7
+centrinis bankas*4.38967 2000
+coal*0.58956 0
+raw wood*0.930983 2000
+wood*1.29855 0
+wheat field*0.8 198594
+wheat*2.19959 0
+bread*4 1406
+2
+john brown -3.25258
+shizuo heymajima -3.25258
+2
+pan und panzer brown 29
+pan und panzer heymajima 29
+0
+//-------------------------------------------------//1000
+176
+2
+hweat*wheat*100 100 91.1765 2410 23.6559 98.6464 241 0.2
+pan und panzer*bread*100 40 102.623 670 7.01312 481.688 59 0.2
+7
+centrinis bankas*4.34578 2000
+coal*0.583664 0
+raw wood*0.921674 2000
+wood*1.28556 0
+wheat field*0.6 198537
+wheat*2.19959 0
+bread*4 1463
+2
+john brown -4.31354
+shizuo heymajima -4.31354
+2
+pan und panzer brown 30
+pan und panzer heymajima 30
+0
+//-------------------------------------------------//1000
+177
+2
+hweat*wheat*100 100 94.3757 2510 24.5719 93.0222 251 0.2
+pan und panzer*bread*100 38 106.224 690 7.23112 481.13 61 0.2
+7
+centrinis bankas*4.30232 2000
+coal*0.577827 0
+raw wood*1.11046 2000
+wood*1.2727 0
+wheat field*0.6 198478
+wheat*2.19959 0
+bread*4 1522
+2
+john brown -5.1712
+shizuo heymajima -5.1712
+2
+pan und panzer brown 31
+pan und panzer heymajima 31
+0
+//-------------------------------------------------//1000
+178
+2
+hweat*wheat*100 100 97.5749 2610 25.5879 90.597 261 0.2
+pan und panzer*bread*100 36 122.025 710 7.51013 493.77 63 0.2
+7
+centrinis bankas*4.25929 2000
+coal*0.572049 0
+raw wood*1.09935 2000
+wood*1.25998 0
+wheat field*0.6 198417
+wheat*2.19959 0
+bread*4.2 1583
+2
+john brown -5.11577
+shizuo heymajima -5.11577
+2
+pan und panzer brown 32
+pan und panzer heymajima 32
+0
+//-------------------------------------------------//1000
+179
+2
+hweat*wheat*100 100 100.774 2710 26.6039 91.3711 271 0.2
+pan und panzer*bread*100 34 126.026 730 7.73013 510.051 65 0.2
+7
+centrinis bankas*4.2167 2000
+coal*0.566329 0
+raw wood*1.08836 2000
+wood*1.44538 0
+wheat field*0.6 198354
+wheat*2.19959 0
+bread*4.2 1646
+2
+john brown -4.78024
+shizuo heymajima -4.78024
+2
+pan und panzer brown 33
+pan und panzer heymajima 33
+0
+//-------------------------------------------------//1000
+180
+2
+hweat*wheat*100 100 90.9732 2800 27.5549 92.3444 280 0.2
+pan und panzer*bread*100 32 130.027 800 7.95013 479.973 68 0.2
+7
+centrinis bankas*4.17453 2000
+coal*0.560665 0
+raw wood*1.07748 2000
+wood*1.43092 0
+wheat field*0.8 198289
+wheat*2.19959 0
+bread*4.2 1711
+2
+john brown -4.14861
+shizuo heymajima -4.14861
+2
+pan und panzer brown 34
+pan und panzer heymajima 34
+0
+//-------------------------------------------------//1000
+181
+2
+hweat*wheat*100 100 95.172 2890 28.4759 97.5164 289 0.2
+pan und panzer*bread*100 30 136.028 780 8.68014 506.156 70 0.2
+7
+centrinis bankas*4.13279 2000
+coal*0.555059 0
+raw wood*1.0667 2000
+wood*1.61462 0
+wheat field*0.8 198221
+wheat*2.19959 0
+bread*4.2 1779
+2
+john brown -3.57884
+shizuo heymajima -3.57884
+2
+pan und panzer brown 35
+pan und panzer heymajima 35
+0
+//-------------------------------------------------//1000
+182
+2
+hweat*wheat*100 100 97.9712 2990 29.3899 95.4875 299 0.2
+pan und panzer*bread*100 28 140.029 850 8.50014 485.179 73 0.2
+7
+centrinis bankas*4.09146 2000
+coal*0.549508 0
+raw wood*1.25403 2000
+wood*1.59847 0
+wheat field*0.8 198151
+wheat*2.19959 0
+bread*4.2 1849
+2
+john brown -2.27697
+shizuo heymajima -2.27697
+2
+pan und panzer brown 36
+pan und panzer heymajima 36
+0
+//-------------------------------------------------//1000
+183
+2
+hweat*wheat*100 100 102.17 3090 30.4108 97.6575 309 0.2
+pan und panzer*bread*100 26 146.03 880 9.23015 470.463 76 0.2
+7
+centrinis bankas*4.05055 2000
+coal*0.544013 0
+raw wood*1.24149 2000
+wood*1.38448 0
+wheat field*0.8 198078
+wheat*2.19959 0
+bread*4.2 1922
+2
+john brown -0.992958
+shizuo heymajima -0.992958
+2
+pan und panzer brown 37
+pan und panzer heymajima 37
+0
+//-------------------------------------------------//1000
+184
+2
+hweat*wheat*100 100 106.369 3200 31.4318 94.0262 320 0.2
+pan und panzer*bread*100 22 152.031 860 9.56016 530.329 78 0.2
+7
+centrinis bankas*4.01004 2000
+coal*0.736573 0
+raw wood*1.22908 2000
+wood*1.37064 0
+wheat field*0.8 198002
+wheat*2.19959 0
+bread*4.2 1998
+2
+john brown -8.86296
+shizuo heymajima -8.86296
+2
+pan und panzer brown 39
+pan und panzer heymajima 39
+0
+//-------------------------------------------------//1000
+185
+2
+hweat*wheat*100 100 109.168 3310 32.5458 93.1941 331 0.2
+pan und panzer*bread*100 20 140.432 930 9.30216 511.279 81 0.2
+7
+centrinis bankas*3.96994 2000
+coal*0.729207 0
+raw wood*1.21679 2000
+wood*1.35693 0
+wheat field*0.8 197924
+wheat*2.19959 0
+bread*4 2076
+2
+john brown -7.21141
+shizuo heymajima -7.21141
+2
+pan und panzer brown 40
+pan und panzer heymajima 40
+0
+//-------------------------------------------------//1000
+185
+2
+hweat*wheat*100 100 109.168 3310 32.5458 93.1941 331 0.2
+pan und panzer*bread*100 20 140.432 930 9.30216 511.279 81 0.2
+7
+centrinis bankas*3.96994 2000
+coal*0.729207 0
+raw wood*1.21679 2000
+wood*1.35693 0
+wheat field*0.8 197924
+wheat*2.19959 0
+bread*4 2076
+2
+john brown -7.21141
+shizuo heymajima -7.21141
+2
+pan und panzer brown 40
+pan und panzer heymajima 40
+0
