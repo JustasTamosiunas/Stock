@@ -91,7 +91,7 @@ void part::write()
 	for(int i=0;i<amountHumans;i++)
 	{
 		f1<<zmoniuSarasas[i].name<<" ";
-		f1<<human[i].lastname<<" ";
+		f1<<zmoniuSarasas[i].lastname<<" ";
 		f1<<human[i].money<<"\n";
 	}
 	f1<<amountShares<<"\n";
