@@ -94,15 +94,15 @@ void part::write()
 		f1<<human[i].lastname<<" ";
 		f1<<human[i].money<<"\n";
 	}
-	f1<<amountshares<<"\n";
-	for(int i=0;i<amountshares;i++)
+	f1<<amountShares<<"\n";
+	for(int i=0;i<amountShares;i++)
 	{
 		f1<<share[i].company<<" ";
 		f1<<share[i].lastname<<" ";
 		f1<<std::setprecision(2)<<share[i].amount<<"\n";
 	}
-	f1<<amountinterest<<"\n";
-	for(int i=0;i<amountinterest;i++)
+	f1<<amountInterest<<"\n";
+	for(int i=0;i<amountInterest;i++)
 	{
 		f1<<D[i].company<<" ";
 		f1<<D[i].interest<<" ";
